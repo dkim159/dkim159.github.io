@@ -57,6 +57,13 @@ p{
     flex: 1;
 }
 
+.images{
+    display:inline-block;
+    height: 50vh;
+    background-color: #fffbd4;
+    text-align: center;
+}
+
 footer{
     padding: 1rem;
     margin-top: auto;
