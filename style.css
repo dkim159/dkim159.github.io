@@ -48,12 +48,13 @@ nav a:hover{
     background-color: #bdf0e4;
     text-align: center;
     font-size: 1.5rem;
+    padding: 1rem 0;
 }
 
 p{
     font-size: 1.2rem;
     background-color: #fffbd4;
-    padding: 5vh;
+    padding: 4vh 2.5vw;
     flex: 1;
 }
 
